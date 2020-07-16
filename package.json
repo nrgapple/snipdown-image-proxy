@@ -1,0 +1,19 @@
+{
+  "name": "image-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expressjs": "^1.0.1",
+    "html2canvas-proxy": "^1.0.1"
+  },
+  "engines": {
+    "node": "v11.3.0"
+  }
+}
